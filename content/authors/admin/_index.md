@@ -35,15 +35,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Land Surface - Atmospheric Interactions
-      institution: Université Paris-Saclay (UVSQ)
-      year: 2019
-    - course: Msc in Climate, Land Use and Ecosystemic Services
-        institution: AgroParisTech (Université Paris-Saclay)
-        year: 2017
-    - course: Ecology and Biodiversity of the Organisms
-      institution: Univesité Paris Sud (Université Paris-Saclay)
-      year: 2016
+  - course: PhD in Land Surface - Atmospheric Interactions
+    institution: Université Paris-Saclay (UVSQ)
+    year: 2019
+- course: Msc in Climate, Land Use and Ecosystemic Services
+    institution: AgroParisTech (Université Paris-Saclay)
+    year: 2017
+- course: Ecology and Biodiversity of the Organisms
+    institution: Univesité Paris Sud (Université Paris-Saclay)
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
