@@ -30,12 +30,12 @@ interests:
 - Global modeling of the biosphere-atmosphere interactions
 - Impact of anthropogenic activity on atmospheric composition & climate
 - Evolution of the agricultural practices
--  N & H cycle
+- N & H cycle
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Land Surface - Atmospheric Interactions
+- course: PhD in Land Surface - Atmospheric Interactions
     institution: Université Paris-Saclay (UVSQ)
     year: 2019
 - course: Msc in Climate, Land Use and Ecosystemic Services
