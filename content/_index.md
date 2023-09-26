@@ -5,12 +5,9 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.biography
-    id: about
+  - block: header
     content:
-      title: Biography
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      title: Welcome to my scientific page !
     design:
       background:
         image:
@@ -28,6 +25,12 @@ sections:
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
+  - block: about.biography
+    id: about
+    content:
+      title: Biography
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
   - block: features
     content:
       title: Skills
