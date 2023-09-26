@@ -5,7 +5,12 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: collection
+  - block: about.biography
+    id: about
+    content:
+      title: Biography
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
     design:
       background:
         image:
@@ -23,12 +28,6 @@ sections:
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
-  - block: about.biography
-    id: about
-    content:
-      title: Biography
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
   - block: features
     content:
       title: Skills
