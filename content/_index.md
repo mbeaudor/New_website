@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: My Scientific Webpage
+title: Maureen Beaudor
 date: 2022-10-24
 type: landing
 
