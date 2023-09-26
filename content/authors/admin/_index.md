@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD in land - atmospheric chemistry interactions 
+role: PhD in land-atmospheric chemistry interactions 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -30,7 +30,7 @@ interests:
 - Global modeling of the biosphere-atmosphere interactions
 - Impact of anthropogenic activity on atmospheric composition & climate
 - Evolution of the agricultural practices
-- N & H cycle
+- N & H biogeochemical cycles
 
 # Education to show in About widget
 education:
