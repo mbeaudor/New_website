@@ -29,20 +29,21 @@ bio: My research interests include the global nitrogen cycle and interactions at
 interests:
 - Global modeling of the biosphere-atmosphere interactions
 - Impact of anthropogenic activity on atmospheric composition & climate
-- Evolution of the agricultural practices and the N cycle
+- Evolution of the agricultural practices
+-  N & H cycle
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Land Surface - Atmospheric Interactions
+      institution: Université Paris-Saclay (UVSQ)
+      year: 2019
+    - course: Msc in Climate, Land Use and Ecosystemic Services
+        institution: AgroParisTech (Université Paris-Saclay)
+        year: 2017
+    - course: Ecology and Biodiversity of the Organisms
+      institution: Univesité Paris Sud (Université Paris-Saclay)
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
