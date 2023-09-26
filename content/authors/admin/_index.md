@@ -23,13 +23,13 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the global nitrogen cycle and interactions at the interface between the surface and atmosphere.
-I am also studying the disturbances associated with the evolution of the agricultural practices and climate change.
+#I am also studying the disturbances associated with the evolution of the agricultural practices and climate change.
 
 # Interests to show in About widget
 interests:
-  - Global modeling of the biosphere-atmosphere interactions
-  - Impact of anthropogenic activity on atmospheric composition & climate
-  - Evolution of the agricultural practices and the N cycle
+- Global modeling of the biosphere-atmosphere interactions
+- Impact of anthropogenic activity on atmospheric composition & climate
+- Evolution of the agricultural practices and the N cycle
 
 # Education to show in About widget
 education:
