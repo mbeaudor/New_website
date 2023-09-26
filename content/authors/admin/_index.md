@@ -19,16 +19,17 @@ role: PhD in land - atmospheric chemistry interactions
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Laboratoire des Sciences du Climat et de l'Environnement
-    url: https://www.stanford.edu/
+    url: https://www.lsce.ipsl.fr/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the global nitrogen cycle and interactions at the interface between the surface and atmosphere.
+I am also studying the disturbances associated with the evolution of the agricultural practices and climate change.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Global modeling of the biosphere-atmosphere interactions
+  - Impact of anthropogenic activity on atmospheric composition & climate
+  - Evolution of the agricultural practices and the N cycle
 
 # Education to show in About widget
 education:
