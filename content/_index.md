@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: header
+  - block: tag_cloud
     content:
       title: Welcome to my scientific page !
     design:
