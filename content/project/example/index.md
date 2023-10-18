@@ -1,7 +1,8 @@
 ---
 title: PhD Project around ammonia and its impact on atmospheric chemistry
 summary: An overview of my investigation as a PhD student.
-tags: PhD Project
+tags: 
+- PhD Project
   #- Deep Learning
 date: '2023-10-18T00:00:00Z'
 
