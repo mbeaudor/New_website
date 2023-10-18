@@ -43,7 +43,7 @@ sections:
           description: Biogeochemistry processes (surface and atmospheric chemistry)
           icon: project-diagram
           icon_pack: fas
-        - name: Language 
+        - name: Languages 
           description: French, English, Spanish (basic notions of German and Italian) 
           icon: globe
           icon_pack: fas
