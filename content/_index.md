@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: tag_cloud
     content:
-      title: Welcome to my scientific page !
+      title: Maureen Beaudor
     design:
       background:
         image:
