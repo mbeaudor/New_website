@@ -165,9 +165,9 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
+        - name: PhD Project
+          tag: PhD Project
+        - name: Model Intercomparison Project
           tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -175,14 +175,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
     id: featured
     content:
