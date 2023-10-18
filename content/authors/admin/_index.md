@@ -36,7 +36,7 @@ interests:
 education:
   courses:
     - course: PhD in Land Surface - Atmospheric Interactions
-      institution: Université Paris-Saclay (UVSQ)
+      institution: Delivered in 2023 by Université Paris-Saclay (UVSQ)
       year: 2019
     - course: Msc in Climate, Land Use and Ecosystemic Services
       institution: AgroParisTech (Université Paris-Saclay)
