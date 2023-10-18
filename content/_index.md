@@ -35,9 +35,9 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: Programing
+          description: Python, FORTRAN, Bash, R, cdo/nco
+          icon: python
           icon_pack: fab
         - name: Statistics
           description: 100%
