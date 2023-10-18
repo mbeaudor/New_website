@@ -40,14 +40,18 @@ ammonia emission quantification is not straightforward.
 In addition, the volatilization process depends on
 environmental variables (temperature, humidity, wind
 speed) that make their estimation particularly complex.
+
 Most global Chemistry Transport Models rely on
 artificial-seasonal variation inventories, which can lead
 to uncertainties in the representation of ammonia and
-its related aerosols. My work takes part in this effort of
+its related aerosols. 
+
+My PhD work took part in this effort of
 better estimating ammonia emissions from agricultural
 practices at the global scale and study their impact on
-atmospheric chemistry. Firstly, as a unique approach,
-I suggest to include a new module (CAMEO; Calculation
+atmospheric chemistry. 
+Firstly, as a unique approach,
+I suggested to include a new module (CAMEO; Calculation
 of AMmonia Emissions in ORCHIDEE) dedicated
 to agricultural ammonia flow within the global Land
 Surface Model ORCHIDEE (Organising Carbon and
@@ -57,12 +61,14 @@ chain, application of fertilizer (mineral and organic)
 along with soil physical processes for volatilization
 are developed and parameterized into ORCHIDEE.
 Global agricultural ammonia emissions from CAMEO
-reach 44 TgN yr−1 and the evaluation shows a highly
+reach 44 $TgN yr^{−1}$ and the evaluation shows a highly
 correlated seasonal cycle with IASI derived-emissions
 (Infrared Atmospheric Sounding Interferometer). It results
 from the response of ammonia emissions to environmental
 changes (from land use and meteorology)
-in CAMEO. The second step of my work consists in
+in CAMEO. 
+
+The second step of my work consisted in
 exploiting CAMEO for future Shared Socio-Economic
 Scenarios (SSPs; designed within the CMIP6 framework).
 However, livestock densities, a key input data
@@ -74,7 +80,7 @@ do so, Integrated Assessment Model (IAM) results for
 the distribution of grassland and regional livestock production
 trends are combined. CAMEO demonstrated a
 possible range of agricultural ammonia emissions situated
-between 50 to 70 TgN yr−1 in 2100, highlighting
+between 50 to 70 $TgN yr^{−1}$ in 2100, highlighting
 the future intensive use of fertilizer (synthetic and
 organic). Depending on the scenario and region, increased
 livestock numbers can have a substantial role,
