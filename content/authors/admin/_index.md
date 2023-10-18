@@ -42,7 +42,7 @@ education:
       institution: AgroParisTech (Université Paris-Saclay)
       year: 2017
     - course: Ecology and Biodiversity of the Organisms
-      institution: Univesité Paris Sud (Université Paris-Saclay)
+      institution: Université Paris Sud (Université Paris-Saclay)
       year: 2016
 
 # Social/Academic Networking
@@ -82,6 +82,6 @@ email: 'mrbeaudor@gmail.com'
 highlight_name: true
 ---
 
-Maureen Beaudor is currently a postdoc at Laboratoire des Sciences du Climat et de l'Environnement. Her research interests include the impact of agricultural practices on atmospheric chemistry and climate and its feedbacks on the surface.
+Maureen Beaudor is currently a postdoc at Laboratoire des Sciences du Climat et de l'Environnement in the Great Paris area. Her research interests include the impact of agricultural practices on atmospheric chemistry and climate and its feedbacks on the surface.
 She is particularly interested in the nitrogen cycle and broadly to other biogeochemical cycles which are important to assess in the future such as the hydrogen cycle.
 {style="text-align: justify;"}
