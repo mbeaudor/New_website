@@ -35,17 +35,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: Programing
-          description: Python, FORTRAN, Bash, R, cdo/nco
+        - name: Programming
+          description: Python, FORTRAN, Bash, CDO/NCO commands, R
           icon: python
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Earth System Modelling
+          description: Biogeochemistry processes (surface and atmospheric chemistry)
+          icon: project-diagram
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Language 
+          description: English, French, Spanish (basic notions of German and Italian) 
+          icon: globe
           icon_pack: fas
   - block: experience
     content:
