@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
-tags: []
+title: PhD Project around ammonia and its impact on atmospheric chemistry
+summary: An overview of my investigation as a PhD student.
+tags: PhD
   #- Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2023-10-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
